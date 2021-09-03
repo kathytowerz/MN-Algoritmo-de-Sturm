@@ -1,8 +1,8 @@
 """
 Algoritmo de Sturm
-
+:3 kiubole
+vite se la come :v
 Cocreado por José Pablo Muñoz
-             ñ
 """
 
 B=[6,5,4,3,2]
