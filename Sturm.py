@@ -2,7 +2,9 @@
 Algoritmo de Sturm
 :3 kiubole
 vite se la come :v
-Cocreado por José Pablo Muñoz
+Creado por Kathleen Lucía Torres Mancilla, 
+           Francisco Javier Vite Mimila y 
+           José Pablo Muñoz Guerrero
 """
 
 B=[6,5,4,3,2]
