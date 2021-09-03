@@ -1,7 +1,8 @@
 """
 Algoritmo de Sturm
 :3 kiubole
-vite se la come :v
+Kathy se la come entera :v
+
 Creado por Kathleen Lucía Torres Mancilla, 
            Francisco Javier Vite Mimila y 
            José Pablo Muñoz Guerrero
