@@ -2,6 +2,7 @@
 Algoritmo de Sturm
 
 Cocreado por José Pablo Muñoz
+             ñ
 """
 
 B=[6,5,4,3,2]
